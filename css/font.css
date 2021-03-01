@@ -12,5 +12,8 @@
 
 @font-face {
     font-family:'zap';
-    src:url(../fonts/zap.otf);    
+    src:url(../fonts/ZapfDingbats\ Regular.ttf),
+    url(../fonts/ZapfDingbatsITCbyBT-Regular.otf),
+    url(../fonts/ZapfDingbatsITCbyBT-Regular.woff),
+    url(../fonts/ZapfDingbatsITCbyBT-Regular.woff2);    
     }
