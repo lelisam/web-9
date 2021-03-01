@@ -7,9 +7,6 @@
          url('../fonts/archyedt-thin-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/archyedt-thin-webfont.svg#archyedt-thinregular') format('svg'); /* Legacy iOS */
 }
-
-
-
 @font-face {
     font-family:'zap';
     src:url(../fonts/ZapfDingbats\ Regular.ttf),
